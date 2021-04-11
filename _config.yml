@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: 'CMPT 459: Introduction to Data Mining'
 subtitle: 'Instructor: Jian Pei'
+github:
+   is_project_page: false
