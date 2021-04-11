@@ -2,8 +2,10 @@
 
 ## Class time
 May 12 - August 9, 2021
-Tuesdays 2:30-4:20 pm
-Fridays 2:30-3:20 pm
+
+| Tuesdays | 2:30-4:20 pm |
+|---|---|
+| Fridays | 2:30-3:20 pm |
 
 ## About this course
 
