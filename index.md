@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to CMPT 459: Introcution to Data Mining
+
+## Class time
+May 12 - August 9, 2021
+Tuesdays 2:30-4:20 pm
+Fridays 2:30-3:20 pm
+
+## About this course
+
+What should you do when you are facing a huge amount of complicated data from real life applications? This course introduces the core techniques in big data analytics, namely knowledge discovery in databases (KDD), also known as data mining (DM). It focuses on the principles, fundamental algorithms, implementations, and applications.
 
 You can use the [editor on GitHub](https://github.com/j-pei/CMPT459/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
