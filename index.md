@@ -29,7 +29,7 @@ What should you do when you are facing a huge amount of complicated data from re
 - Drafts of some chapters in the 4th ed. will be available for interested students.
 
 # Format
-- Teaching and office hours through zoom. Students are required to attend the classes.
+- Classes and office hours through zoom. Students are required to attend the classes. Classes will be recorded.
 - Office hours through zoom.
 - In-class exams.
 
