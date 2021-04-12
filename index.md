@@ -8,9 +8,10 @@ May 12 - August 9, 2021
 
 # Instructor and TAs
 
-| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca |
-|---|---|---|
-| TA | TBD | |
+| Role | Name | Email | Office hour |
+|---|---|---|---|
+| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 11:30 am - 1:00 pm |
+| TA | TBD | | |
 
 ## About this course
 
@@ -34,3 +35,14 @@ What should you do when you are facing a huge amount of complicated data from re
 
 # Course outline
 1. Welcome and introcution
+2. Business intelligence (data warehousing, OLAP and data lakes)
+3. Mining patterns and rules
+4. Predictive analytics
+5. Clustering analytics
+6. Outlier detection
+
+# Assignments
+- Assignment 1 (business intelligence)
+- Assignment 2 (mining patterns and rules)
+- Assignment 3 (predictive analytics)
+- Assignment 4 (clustering analysis and outlier detection)
