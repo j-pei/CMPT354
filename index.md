@@ -47,6 +47,7 @@ What should you do when you are facing a huge amount of complicated data from re
 - Assignment 4 (clustering analysis and outlier detection)
 
 # Schedule
+
 | Date | Topic | Assignment |
 |---|---|---|
 | May 14 | [Welcome and introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) | |
