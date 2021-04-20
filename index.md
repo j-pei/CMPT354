@@ -28,9 +28,8 @@ What should you do when you are facing a huge amount of complicated data from re
 - (Official textbook) Data Mining: Concepts and Techniques (3rd ed.), Jiawei Han, Micheline Kamber, and Jian Pei, Morgan Kaufmann, 2011.
 - Drafts of some chapters in the 4th ed. will be available for interested students.
 
-# Format
-- Classes and office hours through zoom. Students are required to attend the classes. Classes will be recorded.
-- Office hours through zoom.
+# Format and Zoom link
+- Classes and office hours through zoom [CMPT 459 Zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09). Students are required to attend the classes. Classes will be recorded.
 - In-class exams.
 
 # Course outline
@@ -46,3 +45,9 @@ What should you do when you are facing a huge amount of complicated data from re
 - Assignment 2 (mining patterns and rules)
 - Assignment 3 (predictive analytics)
 - Assignment 4 (clustering analysis and outlier detection)
+
+# Schedule
+| Date | Topic | Assignment |
+|--|--|--|
+| May 14 | [Welcome and introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) | |
+| May 18 | Introduction (continued) | |
