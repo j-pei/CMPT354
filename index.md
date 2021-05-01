@@ -48,7 +48,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | Assignment 1 (Data warehousing and frequent pattern mining) | May 21 | June 9 |
 | Assignment 2 (predictive analytics) | June 15 | June 30 |
 | Assignment 3 (clustering analysis) | July 13 | July 21 |
-| Assignment 4 (Advanced topics) | July 23 | August 6 |
+| Assignment 4 (Outlier detection and advanced topics) | July 23 | August 6 |
 
 # Schedule (tentative, subject to changes)
 
@@ -72,10 +72,10 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | July 6 | Recorded  | Clustering (1) |
 | July 9 | Recorded  | Clustering (2) |
 | July 13 | Recorded lecture | Clustering (3) |
-| July 16 | Recorded lecture | Clustering (3) |
-| July 20 | Recorded lecture | Clustering (4) |
+| July 16 | Recorded lecture | Advanced clustering |
+| July 20 | Recorded lecture | Outlier detection |
 | July 23 | Real time | Review for Exam 3 |
-| July 27 | Recorded lecture | Advanced Clustering |
+| July 27 | Recorded lecture | Advanced topics |
 | July 30 | Real time | Exam 3 |
-| August 3 | Recorded lecture | Outlier detection|
+| August 3 | Recorded lecture | Advanced topics|
 | August 6 | Real time | Summary and welfare |
