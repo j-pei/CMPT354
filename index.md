@@ -75,7 +75,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | July 16 | Recorded | Advanced clustering |
 | July 20 | Recorded | Outlier detection |
 | July 23 | Online | Review for Exam 3 |
-| July 27 | Recorded | Advanced topics |
+| July 27 | Recorded | Advanced topics (1) |
 | July 30 | Online | **Exam 3** |
-| August 3 | Recorded | Advanced topics|
+| August 3 | Recorded | Advanced topics (2)|
 | August 6 | Online | Summary and welfare |
