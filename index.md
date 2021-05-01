@@ -51,7 +51,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 
 | Date | Real time or recorded lecture Topic | Topic | Assignment |
 |---|---|---|---|
-| May 14 | Real time lecture | Orientation | |
+| May 14 | Real time | Orientation | |
 | May 18 | Recorded lecture | [Introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |  |
 | May 21 | Recorded lecture | Data lakes and enterprise data infrastructure | |
 | May 25 | Recorded lecture | Data warehousing and OLAP| |
