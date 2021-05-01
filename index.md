@@ -47,9 +47,32 @@ As a data scientist, what should you do when you are facing a huge amount of com
 - Assignment 3 (predictive analytics)
 - Assignment 4 (clustering analysis and outlier detection)
 
-# Schedule
+# Schedule (tentative, subject to changes)
 
 | Date | Real time or recorded lecture Topic | Topic | Assignment |
 |---|---|---|---|
-| May 14 | Real time | Orientation | |
-| May 18 | Recorded lecture | [Welcome and introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |  |
+| May 14 | Real time lecture | Orientation | |
+| May 18 | Recorded lecture | [Introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |  |
+| May 21 | Recorded lecture | Data lakes and enterprise data infrastructure | |
+| May 25 | Recorded lecture | Data warehousing and OLAP| |
+| May 28 | Real time | Frequent pattern mining (1) | |
+| June 1 | Recorded lecture | Frequent pattern mining (2) | |
+| June 4 | Real time | Review for Exam 1 | |
+| June 8 | Recorded lecture | Advanced frequent pattern mining | |
+| June 11 | Real time | Exam 1 | |
+| June 15 | Recorded lecture | Classification (1) | |
+| June 18 | Recorded lecture | Classification (2) | |
+| June 22 | Recorded lecture | Classification (3) | |
+| June 25 | Real time | Review for Exam 2 | |
+| June 29 | Recorded lecture | Advanced classification (1) | |
+| July 2 | Real time | Exam 2 | |
+| July 6 | Recorded lecture | Advanced classification (2) | |
+| July 9 | Recorded lecture | Clustering (1) | |
+| July 13 | Recorded lecture | Clustering (2) | |
+| July 16 | Recorded lecture | Clustering (3) | |
+| July 20 | Recorded lecture | Clustering (4) | |
+| July 23 | Real time | Review for Exam 3 | |
+| July 27 | Recorded lecture | Advanced Clustering | |
+| July 30 | Real time | Exam 3 | |
+| August 3 | Recorded lecture | Outlier detection| |
+| August 6 | Real time | Summary and welfare | |
