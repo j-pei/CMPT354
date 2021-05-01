@@ -10,7 +10,7 @@ May 12 - August 9, 2021
 
 | Role | Name | Email | Office hour |
 |---|---|---|---|
-| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 11:30 am - 1:00 pm |
+| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 9:00 - 10:20 am |
 | TA | Xuan Luo | xuan_luo@sfu.ca | TBA |
 
 ## About this course
