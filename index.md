@@ -30,7 +30,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 
 # Format and Zoom link
 - Classes and office hours through zoom [CMPT 459 Zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09). 
-- A combination of online classes and recorded lectures.  Students are required to attend the classes. See the schedule section for details.
+- A combination of online classes and recorded lectures.  Students are required to attend the online classes. See the schedule section for details.
 - In-class exams.
 
 # Course outline
@@ -52,7 +52,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 
 # Schedule (tentative, subject to changes)
 
-| Date | Real time or recorded lecture Topic | Topic |
+| Date | Online or recorded | Topic |
 |---|---|---|
 | May 14 | Online | [Introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |
 | May 18 | Recorded | Data lakes and enterprise data infrastructure |
@@ -62,20 +62,20 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | June 1 | Recorded | Frequent pattern mining (3) |
 | June 4 | Online | Review for Exam 1 |
 | June 8 | Recorded  | Advanced frequent pattern mining |
-| June 11 | Online | Exam 1 |
+| June 11 | Online | **Exam 1** |
 | June 15 | Recorded | Classification (1) |
 | June 18 | Recorded | Classification (2) |
 | June 22 | Recorded | Classification (3) |
 | June 25 | Online | Review for Exam 2 | |
 | June 29 | Recorded | Advanced classification |
-| July 2 | Online | Exam 2 |
+| July 2 | Online | **Exam 2** |
 | July 6 | Recorded  | Clustering (1) |
 | July 9 | Recorded  | Clustering (2) |
-| July 13 | Recorded lecture | Clustering (3) |
-| July 16 | Recorded lecture | Advanced clustering |
-| July 20 | Recorded lecture | Outlier detection |
-| July 23 | Real time | Review for Exam 3 |
-| July 27 | Recorded lecture | Advanced topics |
-| July 30 | Real time | Exam 3 |
-| August 3 | Recorded lecture | Advanced topics|
-| August 6 | Real time | Summary and welfare |
+| July 13 | Recorded | Clustering (3) |
+| July 16 | Recorded | Advanced clustering |
+| July 20 | Recorded | Outlier detection |
+| July 23 | Online | Review for Exam 3 |
+| July 27 | Recorded | Advanced topics |
+| July 30 | Online | **Exam 3** |
+| August 3 | Recorded | Advanced topics|
+| August 6 | Online | Summary and welfare |
