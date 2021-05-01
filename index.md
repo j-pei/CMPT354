@@ -30,7 +30,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 
 # Format and Zoom link
 - Classes and office hours through zoom [CMPT 459 Zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09). 
-- A combination of recorded lectures and real time classes.  Students are required to attend the classes. See the schedule section for details.
+- A combination of online classes and recorded lectures.  Students are required to attend the classes. See the schedule section for details.
 - In-class exams.
 
 # Course outline
@@ -41,38 +41,41 @@ As a data scientist, what should you do when you are facing a huge amount of com
 5. Clustering analytics
 6. Outlier detection
 
-# Assignments
-- Assignment 1 (business intelligence)
-- Assignment 2 (mining patterns and rules)
-- Assignment 3 (predictive analytics)
-- Assignment 4 (clustering analysis and outlier detection)
+# Assignments (tentative, subject to changes)
+
+| Assignment | Release date | Due date |
+|---|---|---|
+| Assignment 1 (Data warehousing and frequent pattern mining) | May 21 | June 9 |
+| Assignment 2 (predictive analytics) | June 15 | June 30 |
+| Assignment 3 (clustering analysis) | July 13 | July 21 |
+| Assignment 4 (Advanced topics) | July 23 | August 6 |
 
 # Schedule (tentative, subject to changes)
 
-| Date | Real time or recorded lecture Topic | Topic | Assignment |
-|---|---|---|---|
-| May 14 | Real time | Orientation | |
-| May 18 | Recorded lecture | [Introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |  |
-| May 21 | Recorded lecture | Data lakes and enterprise data infrastructure | |
-| May 25 | Recorded lecture | Data warehousing and OLAP| |
-| May 28 | Real time | Frequent pattern mining (1) | |
-| June 1 | Recorded lecture | Frequent pattern mining (2) | |
-| June 4 | Real time | Review for Exam 1 | |
-| June 8 | Recorded lecture | Advanced frequent pattern mining | |
-| June 11 | Real time | Exam 1 | |
-| June 15 | Recorded lecture | Classification (1) | |
-| June 18 | Recorded lecture | Classification (2) | |
-| June 22 | Recorded lecture | Classification (3) | |
-| June 25 | Real time | Review for Exam 2 | |
-| June 29 | Recorded lecture | Advanced classification (1) | |
-| July 2 | Real time | Exam 2 | |
-| July 6 | Recorded lecture | Advanced classification (2) | |
-| July 9 | Recorded lecture | Clustering (1) | |
-| July 13 | Recorded lecture | Clustering (2) | |
-| July 16 | Recorded lecture | Clustering (3) | |
-| July 20 | Recorded lecture | Clustering (4) | |
-| July 23 | Real time | Review for Exam 3 | |
-| July 27 | Recorded lecture | Advanced Clustering | |
-| July 30 | Real time | Exam 3 | |
-| August 3 | Recorded lecture | Outlier detection| |
-| August 6 | Real time | Summary and welfare | |
+| Date | Real time or recorded lecture Topic | Topic |
+|---|---|---|
+| May 14 | Online | [Introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |
+| May 18 | Recorded | Data lakes and enterprise data infrastructure |
+| May 21 | Recorded | Data warehousing and OLAP |
+| May 25 | Recorded | Frequent pattern mining (1) |
+| May 28 | Recorded | Frequent pattern mining (2) |
+| June 1 | Recorded | Frequent pattern mining (3) |
+| June 4 | Online | Review for Exam 1 |
+| June 8 | Recorded  | Advanced frequent pattern mining |
+| June 11 | Online | Exam 1 |
+| June 15 | Recorded | Classification (1) |
+| June 18 | Recorded | Classification (2) |
+| June 22 | Recorded | Classification (3) |
+| June 25 | Online | Review for Exam 2 | |
+| June 29 | Recorded | Advanced classification |
+| July 2 | Online | Exam 2 |
+| July 6 | Recorded  | Clustering (1) |
+| July 9 | Recorded  | Clustering (2) |
+| July 13 | Recorded lecture | Clustering (3) |
+| July 16 | Recorded lecture | Clustering (3) |
+| July 20 | Recorded lecture | Clustering (4) |
+| July 23 | Real time | Review for Exam 3 |
+| July 27 | Recorded lecture | Advanced Clustering |
+| July 30 | Real time | Exam 3 |
+| August 3 | Recorded lecture | Outlier detection|
+| August 6 | Real time | Summary and welfare |
