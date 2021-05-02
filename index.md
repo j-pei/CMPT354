@@ -56,7 +56,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 |---|---|---|
 | May 14 | Online | [Introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |
 | May 18 | Recorded | [Data warehousing and OLAP](https://www.cs.sfu.ca/cc/459/jpei/21/459DataWarehousing.pdf) |
-| May 21 | Recorded | Data lakes and enterprise data infrastructure |
+| May 21 | Recorded | [Data lakes and enterprise data infrastructure](https://www.cs.sfu.ca/cc/459/jpei/21/459DataLakes.pdf) |
 | May 25 | Recorded | Frequent pattern mining (1) |
 | May 28 | Recorded | Frequent pattern mining (2) |
 | June 1 | Recorded | Frequent pattern mining (3) |
