@@ -66,7 +66,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | June 15 | Recorded | Classification (1) |
 | June 18 | Recorded | Classification (2) |
 | June 22 | Recorded | Classification (3) |
-| June 25 | Online | Review for Exam 2 | |
+| June 25 | Online | Review for Exam 2 |
 | June 29 | Recorded | Advanced classification |
 | July 2 | Online | **Exam 2** |
 | July 6 | Recorded  | Clustering (1) |
