@@ -30,8 +30,8 @@ As a data scientist, what should you do when you are facing a huge amount of com
 
 # Format and Zoom link
 - Classes and office hours through zoom [CMPT 459 Zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09). 
-- A combination of online classes and recorded lectures.  Students are required to attend the online classes. See the schedule section for details.
-- In-class exams.
+- A combination of live zoom meeting sessions and pre-recorded lectures.  Students are required to attend the live sessions. See the schedule section for details.
+- In-class exams.  
 
 # Course outline
 1. Welcome and introcution
@@ -52,30 +52,30 @@ As a data scientist, what should you do when you are facing a huge amount of com
 
 # Schedule (tentative, subject to changes)
 
-| Date | Online or recorded | Topic |
+| Date | Live or pre-recorded | Topic |
 |---|---|---|
-| May 14 | Online | Introduction [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf)] [[video](https://youtu.be/s0zgJRg-bI8)] |
-| May 18 | Recorded | Data warehousing and OLAP [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459DataWarehousing.pdf)] [[video](https://youtu.be/ilFAj1dQPwo)] |
-| May 21 | Recorded | Data lakes and enterprise data infrastructure [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459DataLakes.pdf)] [[video](https://youtu.be/QTole3HuOBc)] |
-| May 25 | Recorded | Frequent pattern mining (1) |
-| May 28 | Recorded | Frequent pattern mining (2) |
-| June 1 | Recorded | Frequent pattern mining (3) |
-| June 4 | Online | Review for Exam 1 |
-| June 8 | Recorded  | Advanced frequent pattern mining |
-| June 11 | Online | **Exam 1** |
-| June 15 | Recorded | Classification (1) |
-| June 18 | Recorded | Classification (2) |
-| June 22 | Recorded | Classification (3) |
-| June 25 | Online | Review for Exam 2 |
-| June 29 | Recorded | Advanced classification |
-| July 2 | Online | **Exam 2** |
-| July 6 | Recorded  | Clustering (1) |
-| July 9 | Recorded  | Clustering (2) |
-| July 13 | Recorded | Clustering (3) |
-| July 16 | Recorded | Advanced clustering |
-| July 20 | Recorded | Outlier detection |
-| July 23 | Online | Review for Exam 3 |
-| July 27 | Recorded | Advanced topics (1) |
-| July 30 | Online | **Exam 3** |
-| August 3 | Recorded | Advanced topics (2)|
-| August 6 | Online | Summary and welfare |
+| May 14 | Live | Introduction [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf)] [[video](https://youtu.be/s0zgJRg-bI8)] |
+| May 18 | Pre-recorded | Data warehousing and OLAP [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459DataWarehousing.pdf)] [[video](https://youtu.be/ilFAj1dQPwo)] |
+| May 21 | Pre-recorded | Data lakes and enterprise data infrastructure [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459DataLakes.pdf)] [[video](https://youtu.be/QTole3HuOBc)] |
+| May 25 | Pre-recorded | Frequent pattern mining (1) |
+| May 28 | Pre-recorded | Frequent pattern mining (2) |
+| June 1 | Pre-recorded | Frequent pattern mining (3) |
+| June 4 | Live | Review for Exam 1 |
+| June 8 | Pre-recorded  | Advanced frequent pattern mining |
+| June 11 | Live | **Exam 1** |
+| June 15 | Pre-recorded | Classification (1) |
+| June 18 | Pre-recorded | Classification (2) |
+| June 22 | Pre-recorded | Classification (3) |
+| June 25 | Live | Review for Exam 2 |
+| June 29 | Pre-recorded | Advanced classification |
+| July 2 | Live | **Exam 2** |
+| July 6 | Pre-recorded  | Clustering (1) |
+| July 9 | Pre-recorded  | Clustering (2) |
+| July 13 | Pre-recorded | Clustering (3) |
+| July 16 | Pre-recorded | Advanced clustering |
+| July 20 | Pre-recorded | Outlier detection |
+| July 23 | Live | Review for Exam 3 |
+| July 27 | Pre-recorded | Advanced topics (1) |
+| July 30 | Live | **Exam 3** |
+| August 3 | Pre-recorded | Advanced topics (2)|
+| August 6 | Live | Summary and welfare |
