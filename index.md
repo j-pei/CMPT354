@@ -54,7 +54,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 
 | Date | Live or pre-recorded | Topic |
 |---|---|---|
-| May 14 | Live | Introduction (Chapter 1) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf)] [[video](https://youtu.be/s0zgJRg-bI8)] |
+| May 14 | Live | Introduction (Chapter 1) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf)] [[video](https://youtu.be/s0zgJRg-bI8)] [[live session](https://youtu.be/T3mXgObUeXU)] |
 | May 18 | Pre-recorded | Data warehousing and OLAP (Chapters 4 & 5) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459DataWarehousing.pdf)] [[video](https://youtu.be/ilFAj1dQPwo)] |
 | May 21 | Pre-recorded | Data lakes and enterprise data infrastructure [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459DataLakes.pdf)] [[video](https://youtu.be/QTole3HuOBc)] |
 | May 25 | Pre-recorded | Frequent pattern mining (1) (Chapters 6.1 & 6.2) [[video](https://youtu.be/Oh7rIMYQORo)] |
