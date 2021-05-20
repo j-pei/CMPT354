@@ -59,13 +59,13 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | May 21 | Pre-recorded | Data lakes and enterprise data infrastructure [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459DataLakes.pdf)] [[video](https://youtu.be/QTole3HuOBc)] |
 | May 25 | Pre-recorded | Frequent pattern mining (1) (Chapters 6.1 & 6.2) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459PatternMining.pdf)] [[video](https://youtu.be/Oh7rIMYQORo)] |
 | May 28 | Pre-recorded | Frequent pattern mining (2) (Chapters 6.2.6 & 7.3) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459PatternMining.pdf)] [[video](https://youtu.be/9PIFFyDa3_Y)]|
-| June 1 | Pre-recorded | Frequent pattern mining (3) (Chapters 6.3 & [this paper](https://www2.cs.sfu.ca/~jpei/publications/spg.pdf)) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459PatternMining.pdf)] [[video](https://youtu.be/6coyl0kAEDg)] |
+| June 1 | Pre-recorded | Frequent pattern mining (3) (Chapters 6.3 & [this paper](https://www.cs.sfu.ca/~jpei/publications/spg.pdf)) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459PatternMining.pdf)] [[video](https://youtu.be/6coyl0kAEDg)] |
 | June 4 | Live | Review for Exam 1 |
 | June 8 | Pre-recorded  | Advanced frequent pattern mining |
 | June 11 | Live | **Exam 1** |
-| June 15 | Pre-recorded | Classification (1) |
-| June 18 | Pre-recorded | Classification (2) |
-| June 22 | Pre-recorded | Classification (3) |
+| June 15 | Pre-recorded | Classification (1) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] |
+| June 18 | Pre-recorded | Classification (2) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] |
+| June 22 | Pre-recorded | Classification (3) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] |
 | June 25 | Live | Review for Exam 2 |
 | June 29 | Pre-recorded | Advanced classification |
 | July 2 | Live | **Exam 2** |
