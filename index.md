@@ -47,7 +47,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 
 | Assignment | Release date | Due date |
 |---|---|---|
-| Assignment 1 (Data warehousing and frequent pattern mining) | May 21 | June 9 |
+| [Assignment 1 (Data warehousing and frequent pattern mining)](https://www2.cs.sfu.ca/CourseCentral/Hypermail/cmpt-459/0008.html) | May 21 | June 9 |
 | Assignment 2 (predictive analytics) | June 15 | June 30 |
 | Assignment 3 (clustering analysis) | July 13 | July 21 |
 | Assignment 4 (Outlier detection and advanced topics) | July 21 | August 6 |
