@@ -1,17 +1,18 @@
 # Class time
 May 12 - August 9, 2021
 
-| Day | Time |
+| Day | Time (Pacific time) |
 |---|---|
 | Tuesday | 2:30-4:20 pm |
 | Friday | 2:30-3:20 pm |
 
 # Instructor and TAs
 
-| Role | Name | Email | Office hour |
+| Role | Name | Email | Office hour (Pacific time) |
 |---|---|---|---|
 | Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 9:00 - 10:20 am |
-| TA | Xuan Luo | xuan_luo@sfu.ca | TBA |
+| TA | Xuan Luo | xuan_luo@sfu.ca | Wednesdays 6:00 - 7:00 pm |
+| TA | Lakshay Sethi | lakshay_sethi@sfu.ca | Mondays 5:00 - 6:00 pm |
 
 ## About this course
 
