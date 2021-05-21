@@ -10,9 +10,9 @@ May 12 - August 9, 2021
 
 | Role | Name | Email | Office hour (Pacific time) |
 |---|---|---|---|
-| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 9:00 - 10:20 am |
-| TA | Xuan Luo | xuan_luo@sfu.ca | Wednesdays 6:00 - 7:00 pm |
-| TA | Lakshay Sethi | lakshay_sethi@sfu.ca | Mondays 5:00 - 6:00 pm |
+| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 9:00 - 10:20 am [Zoom link](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09)|
+| TA | Xuan Luo | xuan_luo@sfu.ca | Wednesdays 6:00 - 7:00 pm [Zoom link](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09) |
+| TA | Lakshay Sethi | lakshay_sethi@sfu.ca | Mondays 5:00 - 6:00 pm [Zoom link](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09) |
 
 ## About this course
 
@@ -30,7 +30,9 @@ As a data scientist, what should you do when you are facing a huge amount of com
 - Drafts of some chapters in the 4th ed. will be available for interested students.
 
 # Format and Zoom link
-- Classes and office hours through zoom [CMPT 459 Zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09). 
+- Live sessions of classes through zoom [CMPT 459 zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09). 
+- Instructor's office hours through zoom [Jian's office hour zoom](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09).
+- TAs' office hours through zoom [TAs' office hour zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09).
 - A combination of live zoom meeting sessions and pre-recorded lectures.  Students are required to attend the live sessions. See the schedule section for details.
 - In-class exams.  
 
