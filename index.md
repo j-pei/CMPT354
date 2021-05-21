@@ -19,7 +19,6 @@ May 12 - August 9, 2021
 As a data scientist, what should you do when you are facing a huge amount of complicated data from real life applications? This course introduces the core techniques in big data analytics, namely knowledge discovery in databases (KDD), also known as data mining (DM). It focuses on the principles, essential ideas, fundamental algorithms, implementations, and applications.
 
 # Prerequisites
-
 - Comprehensive understanding and fluent skills in data structures, such as linked data structures, B-trees, and hash functions.
 - Analysis of algorithms and time complexity.
 - Operating systems, main memory and disk management, file systems.
@@ -30,10 +29,10 @@ As a data scientist, what should you do when you are facing a huge amount of com
 - Drafts of some chapters in the 4th ed. will be available for interested students.
 
 # Format and Zoom link
+- A combination of live zoom meeting sessions and pre-recorded lectures.  Students are required to attend the live sessions. See the schedule section for details.
 - Live sessions of classes through zoom [CMPT 459 zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09). 
 - Instructor's office hours through zoom [Jian's office hour zoom](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09).
 - TAs' office hours through zoom [TAs' office hour zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09).
-- A combination of live zoom meeting sessions and pre-recorded lectures.  Students are required to attend the live sessions. See the schedule section for details.
 - In-class exams.  
 
 # Course outline
