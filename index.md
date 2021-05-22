@@ -66,7 +66,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | June 8 | Pre-recorded  | Advanced frequent pattern mining |
 | June 11 | Live | **Exam 1** |
 | June 15 | Pre-recorded | Classification (1) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] [[video](https://youtu.be/Bc7T7o_8ALk)] |
-| June 18 | Pre-recorded | Classification (2) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] |
+| June 18 | Pre-recorded | Classification (2) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] [[video](https://youtu.be/lmpHOak1kEI)] |
 | June 22 | Pre-recorded | Classification (3) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] |
 | June 25 | Live | Review for Exam 2 |
 | June 29 | Pre-recorded | Advanced classification |
