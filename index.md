@@ -71,7 +71,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | June 25 | Live | Review for Exam 2 |
 | June 29 | Pre-recorded | Advanced classification |
 | July 2 | Live | **Exam 2** |
-| July 6 | Pre-recorded  | Clustering (1) |
+| July 6 | Pre-recorded  | Clustering (1) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] |
 | July 9 | Pre-recorded  | Clustering (2) |
 | July 13 | Pre-recorded | Clustering (3) |
 | July 16 | Pre-recorded | Advanced clustering |
