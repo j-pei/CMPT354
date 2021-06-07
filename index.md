@@ -63,7 +63,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | May 28 | Pre-recorded | Frequent pattern mining (2) (Chapters 6.2.6 & 7.3) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459PatternMining.pdf)] [[video](https://youtu.be/9PIFFyDa3_Y)]|
 | June 1 | Pre-recorded | Frequent pattern mining (3) (Chapters 6.3 & [this paper](https://www.cs.sfu.ca/~jpei/publications/spg.pdf)) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459PatternMining.pdf)] [[video](https://youtu.be/6coyl0kAEDg)] |
 | June 4 | Live | Review for Exam 1 [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Exam1Review.pdf)] [[live session recording](https://youtu.be/xvITRIvvwd4)] |
-| June 8 | Pre-recorded  | Advanced topic: Trustworthy data science [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/TrustworthyDataScience.pdf)] |
+| June 8 | Pre-recorded  | Advanced topic: Trustworthy data science Trustworthy data science [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/TrustworthyDataScience.pdf)] [[video](https://youtu.be/mJPgVlXwdY8)] |
 | June 11 | Live | **Exam 1** |
 | June 15 | Pre-recorded | Classification (1) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] [[video](https://youtu.be/Bc7T7o_8ALk)] |
 | June 18 | Pre-recorded | Classification (2) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] [[video](https://youtu.be/lmpHOak1kEI)] |
