@@ -69,15 +69,15 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | June 18 | Pre-recorded | Classification (2) (Chapters 8.5 & 8.6) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] [[video](https://youtu.be/lmpHOak1kEI)] |
 | June 22 | Pre-recorded | Classification (3) (Chapters 8.3, 9.2, 9.3, 9.5) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] [[video](https://youtu.be/sUDCy-gkEno)] |
 | June 25 | Live | Review for Exam 2 |
-| June 29 | Pre-recorded | Advanced classification |
+| June 29 | Pre-recorded | Clustering (1) (Chapters 10.1 & 10.2) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] [[video](https://youtu.be/sOhDfm1NEyY)] |
 | July 2 | Live | **Exam 2** |
-| July 6 | Pre-recorded  | Clustering (1) (Chapters 10.1 & 10.2) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] [[video](https://youtu.be/sOhDfm1NEyY)] |
-| July 9 | Pre-recorded  | Clustering (2) (Chapters 10.3, 10.4 & 10.5) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] [[video](https://youtu.be/EZQKmnVL3F0)] |
-| July 13 | Pre-recorded | Clustering (3) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] |
-| July 16 | Pre-recorded | Advanced clustering |
-| July 20 | Pre-recorded | Outlier detection |
+| July 6 | Pre-recorded  | Clustering (2) (Chapters 10.3, 10.4 & 10.5) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] [[video](https://youtu.be/EZQKmnVL3F0)] |
+| July 9 | Pre-recorded  | Clustering (3) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] |
+| July 13 | Pre-recorded | Outlier detection |
+| July 16 | Pre-recorded | Advanced topics |
+| July 20 | Pre-recorded | Advanced topics |
 | July 23 | Live | Review for Exam 3 |
-| July 27 | Pre-recorded | Advanced topics (1) |
+| July 27 | Pre-recorded | Advanced topics |
 | July 30 | Live | **Exam 3** |
-| August 3 | Pre-recorded | Advanced topics (2)|
+| August 3 | Pre-recorded | Advanced topics |
 | August 6 | Live | Summary and welfare |
