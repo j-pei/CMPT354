@@ -73,7 +73,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | July 2 | Live | **Exam 2** |
 | July 6 | Pre-recorded  | Clustering (2) (Chapters 10.3, 10.4 & 10.5) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] [[video](https://youtu.be/EZQKmnVL3F0)] |
 | July 9 | Pre-recorded  | Clustering (3) (Chapters 11.2.3 & 10.6) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] [[video](https://youtu.be/aaOapdOr-Pg)] |
-| July 13 | Pre-recorded | Outlier detection |
+| July 13 | Pre-recorded | Outlier detection [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459OutlierDetection.pdf)] |
 | July 16 | Pre-recorded | Advanced topics |
 | July 20 | Pre-recorded | Advanced topics |
 | July 23 | Live | Review for Exam 3 |
