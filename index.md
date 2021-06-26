@@ -68,7 +68,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | June 15 | Pre-recorded | Classification (1) (Chapters 8.1 & 8.2) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] [[video](https://youtu.be/Bc7T7o_8ALk)] |
 | June 18 | Pre-recorded | Classification (2) (Chapters 8.5 & 8.6) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] [[video](https://youtu.be/lmpHOak1kEI)] |
 | June 22 | Pre-recorded | Classification (3) (Chapters 8.3, 9.2, 9.3, 9.5) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Classification.pdf)] [[video](https://youtu.be/sUDCy-gkEno)] |
-| June 25 | Live | Review for Exam 2 [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Exam2Review.pdf)] [[video](https://youtu.be/BK8MOsifAwI) |
+| June 25 | Live | Review for Exam 2 [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Exam2Review.pdf)] [[video](https://youtu.be/BK8MOsifAwI)] |
 | June 29 | Pre-recorded | Clustering (1) (Chapters 10.1 & 10.2) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] [[video](https://youtu.be/sOhDfm1NEyY)] |
 | July 2 | Live | **Exam 2** |
 | July 6 | Pre-recorded  | Clustering (2) (Chapters 10.3, 10.4 & 10.5) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Clustering.pdf)] [[video](https://youtu.be/EZQKmnVL3F0)] |
