@@ -76,7 +76,7 @@ As a data scientist, what should you do when you are facing a huge amount of com
 | July 13 | Pre-recorded | Outlier detection (1) (Chapters 12.1, 12.2 & 12.3) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459OutlierDetection.pdf)] [[video](https://youtu.be/wnfVS5zL-6I)] |
 | July 16 | Pre-recorded | Outlier detection (2) (Chapters 12.4, 12.5, 12.6, 12.7 & 12.8) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459OutlierDetection.pdf)] [[video](https://youtu.be/gQFnRTFi5Ig)] |
 | July 20 | Pre-recorded | Introduction to deep learning (1) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459DeepLearning.pdf)] [[video](https://youtu.be/6eFyaPxDer0)] |
-| July 23 | Live | Review for Exam 3 |
+| July 23 | Live | Review for Exam 3 [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459Exam3Review.pdf)] |
 | July 27 | Pre-recorded | Introduction to deep learning (2) [[slides](https://www.cs.sfu.ca/cc/459/jpei/21/459DeepLearning.pdf)] [[video](https://youtu.be/NF7iuWQi2FY)] |
 | July 30 | Live | **Exam 3** |
 | August 3 | Pre-recorded | Data Pricing and Data Asset Management [[video](https://www.youtube.com/watch?v=VNesYXw-6hQ&list=PL8n-erTbIhTOM5X9x32-XB1-pj6RvvjlZ)] |
