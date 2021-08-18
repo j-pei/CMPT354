@@ -25,7 +25,7 @@ This is an introduction course into the general area of data management, which i
 
 # Format and Zoom link
 - In-person classes.  Students are required to attend the in-person lectures. 
-- Instructor's office hours through zoom tentatively ([Jian's office hour zoom](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09)).
+- Instructor's office hours through zoom tentatively ([Jian's office hour zoom link](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09)).
 - In-class exams.
 
 # Course outline
