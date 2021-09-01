@@ -1,3 +1,4 @@
+
 # Class time
 September 8 - December 7, 2021
 
