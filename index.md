@@ -44,4 +44,4 @@ This is an introduction course into the general area of data management, which i
 # Schedule (tentative, subject to changes)
 
 | Date | Topic |
-|---|---|
+|---|---| 
