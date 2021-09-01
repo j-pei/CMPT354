@@ -11,6 +11,8 @@ September 8 - December 7, 2021
 | Role | Name | Email | Office hour |
 |---|---|---|---|
 | Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Monday 9:30 - 10:20 am TASC 1 9429 and [Zoom link](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09)|
+| TA | Gurashish Singh Suri | gurashish_singh_suri@sfu.ca | |
+| TA | Chirong Zhang | chirong_zhang@sfu.ca | |
 
 
 ## About this course
