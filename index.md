@@ -1,4 +1,4 @@
-# Class time
+# CMPT 354: Database Systems I 
 September 8 - December 7, 2021
 
 | Day | Time (Pacific time) | Classroom |
@@ -40,8 +40,9 @@ This is an introduction course into the general area of data management, which i
 
 | Assignment | Release date | Due date |
 |---|---|---|
+| Assignment 1 | |
 
 # Schedule (tentative, subject to changes)
 
-| Date | Topic |
-|---|---| 
+| Date | Topic | Sections in textbook |
+|September 9 | Introduction | Chapter 1 |
