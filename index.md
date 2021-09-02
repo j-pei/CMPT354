@@ -47,4 +47,4 @@ This is an introduction course into the general area of data management, which i
 # Schedule (tentative, subject to changes)
 
 | Date | Topic | Sections in textbook |
-|September 9 | Introduction | Chapter 1 |
+| September 9 | [Introduction](https://www.cs.sfu.ca/cc/354/jpei/2021/introduction.pdf) | Chapter 1 |
