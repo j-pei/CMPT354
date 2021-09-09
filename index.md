@@ -29,6 +29,8 @@ This is an introduction course into the general area of data management, which i
 - In-person classes.  Students are required to attend the in-person lectures. 
 - Instructor's office hours through zoom tentatively ([Jian's office hour zoom link](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09)).
 - In-class exams.
+- [Piazza](https://piazza.com/class/ktad2k2uwzb2nt) for QA and discussion
+- [Course mailing list](http://www.cs.sfu.ca/CourseCentral/Hypermail/cmpt-354-d1)
 
 # Course outline
 1. Introduction to data intensive applications and data management
