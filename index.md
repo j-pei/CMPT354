@@ -58,3 +58,6 @@ This is an introduction course into the general area of data management, which i
 | October 18 | Midterm 1 | SSCC 9001 |
 | November 22 | Midterm 2 |SSCC 9001 |
 
+# Announcements
+
+- The midterms will be run in SSCC 9001 instead of our regular classroom on Mondays
