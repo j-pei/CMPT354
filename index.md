@@ -52,3 +52,5 @@ This is an introduction course into the general area of data management, which i
 | September 9 | [Introduction](https://www.cs.sfu.ca/cc/354/jpei/2021/introduction.pdf) | Chapter 1 | 
 | September 13, 16 | [Introduction to the Relational Model](https://www.cs.sfu.ca/cc/354/jpei/2021/relationalmodel.pdf) | Chapter 2 |
 | September 20, 23, 27 | [Introduction to SQL](https://www.cs.sfu.ca/cc/354/jpei/2021/introductionSQL.pdf) | Chapter 3 |
+| October 18 | Midterm 1 | SSCC 9001 |
+| November 22 | Midterm 2 |SSCC 9001 |
