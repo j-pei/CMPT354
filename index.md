@@ -42,9 +42,9 @@ This is an introduction course into the general area of data management, which i
 
 # Assignments (tentative, subject to changes)
 
-| Assignment | Release date | Due date |
-|---|---|---|
-| Assignment 1 | |
+| Assignment | Due date |
+|---|---|
+| [Assignment 1](https://www.cs.sfu.ca/CC/Hypermail/cmpt-354-d1/att-0004/CMPT_354_Assignment_1.pdf) | 11:59 pm, October 12 (Tuesday) |
 
 # Schedule (tentative, subject to changes)
 
