@@ -51,11 +51,11 @@ This is an introduction course into the general area of data management, which i
 | Date | Topic | Sections in textbook | 
 | September 9 | [Introduction](https://www.cs.sfu.ca/cc/354/jpei/2021/introduction.pdf) | Chapter 1 | 
 | September 13-16 | [Introduction to the Relational Model](https://www.cs.sfu.ca/cc/354/jpei/2021/relationalmodel.pdf) | Chapter 2 |
-| September 20 - October 4 | [Introduction to SQL](https://www.cs.sfu.ca/cc/354/jpei/2021/introductionSQL.pdf) | Chapter 3 |
+| September 20 - October 4 | [Introduction to SQL](https://www.cs.sfu.ca/cc/354/jpei/2021/introductionSQL.pdf) | Chapter 3, Chapter 5.5 |
 | October 7-11 | [Intermediate SQL](https://www.cs.sfu.ca/cc/354/jpei/2021/intermediateSQL.pdf) | Chapter 4 (except for Sections 4.3 and 4.7) |
 | October 14 | Review for Midterm 1 | |
 | October 18 | Midterm 1 | SSCC 9001 |
-| October 21 | Advanced SQL | Chapter 5 |
+| October 21 | [Accessing SQL From a Programming Language](https://www.cs.sfu.ca/cc/354/jpei/2021/AdvancedSQL.pdf) | Chapter 5.1 |
 | November 22 | Midterm 2 |SSCC 9001 |
 
 # Announcements
