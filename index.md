@@ -15,7 +15,9 @@ September 8 - December 7, 2021
 | TA | Chirong Zhang | chirong_zhang@sfu.ca | Friday 11 am - noon, ASB9808 and [Zoom link](https://sfu.zoom.us/j/6388991382) |
 
 ## Additional office hours
-|---|---|
+
+| Name | Date and time | 
+|---|---| 
 | Jian Pei | 9:30-10:30 am, October 9 (Saturday) |
 | Jian Pei | 9:30-10:30 am, October 11 (Monday, Thanksgiving) |
 | Jian Pei | 10:30-11:20 am, October 14 (Thursday) |
