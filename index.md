@@ -23,17 +23,17 @@ September 8 - December 7, 2021
 | Jian Pei | 10:30-11:20 am, October 14 (Thursday) |
 | Jian Pei | 9:30-10:30 am, October 16 (Saturday) |
 
-## About this course
+# About this course
 
 This is an introduction course into the general area of data management, which is the core of many applications. We will cover the basic ideas and methodologies of data management in the context of data science and big data.
 
-# Prerequisites
+## Prerequisites
 - CMPT 225 and (MACM 101 or (ENSC 251 and ENSC 252)), all with a minimum grade of C-.
 
-# Textbook and references
+## Textbook and references
 - Database System Concepts, 7th Edition, Abraham Silberschatz and Henry Korth and S. Sudarshan, McGraw Hill, 2020.
 
-# Format and Zoom link
+## Format and Zoom link
 - In-person classes.  Students are required to attend the in-person lectures. 
 - Instructor's office hours through zoom tentatively ([Jian's office hour zoom link](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09)).
 - In-class exams.
@@ -57,6 +57,7 @@ This is an introduction course into the general area of data management, which i
 # Schedule (tentative, subject to changes)
 
 | Date | Topic | Sections in textbook | 
+|---|---|---|
 | September 9 | [Introduction](https://www.cs.sfu.ca/cc/354/jpei/2021/introduction.pdf) | Chapter 1 | 
 | September 13-16 | [Introduction to the Relational Model](https://www.cs.sfu.ca/cc/354/jpei/2021/relationalmodel.pdf) | Chapter 2 |
 | September 20 - October 4 | [Introduction to SQL](https://www.cs.sfu.ca/cc/354/jpei/2021/introductionSQL.pdf) | Chapter 3, Chapter 5.5 |
