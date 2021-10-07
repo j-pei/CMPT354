@@ -14,6 +14,12 @@ September 8 - December 7, 2021
 | TA | Gurashish Singh Suri | gurashish_singh_suri@sfu.ca | Wednesday 11 am - noon, ASB9812 and [Zoom link](https://sfu.zoom.us/j/67194562170?pwd=bVZPRUh5ZUp1bVRIWXRYS0doNFkzQT09) |
 | TA | Chirong Zhang | chirong_zhang@sfu.ca | Friday 11 am - noon, ASB9808 and [Zoom link](https://sfu.zoom.us/j/6388991382) |
 
+## Additional office hours
+|---|---|
+| Jian Pei | 9:30-10:30 am, October 9 (Saturday) |
+| Jian Pei | 9:30-10:30 am, October 11 (Monday, Thanksgiving) |
+| Jian Pei | 10:30-11:20 am, October 14 (Thursday) |
+| Jian Pei | 9:30-10:30 am, October 16 (Saturday) |
 
 ## About this course
 
@@ -44,7 +50,7 @@ This is an introduction course into the general area of data management, which i
 
 | Assignment | Due date |
 |---|---|
-| [Assignment 1](https://www2.cs.sfu.ca/CourseCentral/Hypermail/cmpt-354-d1/att-0009/CMPT_354_Assignment_1.pdf) | 11:59 pm, October 12 (Tuesday) |
+| [Assignment 1](https://www2.cs.sfu.ca/CourseCentral/Hypermail/cmpt-354-d1/att-0011/CMPT_354_Assignment_1.pdf) | 11:59 pm, October 12 (Tuesday) |
 
 # Schedule (tentative, subject to changes)
 
