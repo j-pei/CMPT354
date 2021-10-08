@@ -24,7 +24,7 @@ September 8 - December 7, 2021
 | Jian Pei | 9:30-10:30 am, October 11 (Monday, Thanksgiving) |
 | Gurashish Singh Suri | 10-11 am, October 13 (Wednesday) |
 | Jian Pei | 10:30-11:20 am, October 14 (Thursday) |
-| Gurashish Singh Suri | 2-3 pm, October 14 (Thursday) |
+| Gurashish Singh Suri | 2:00-3:00 pm, October 14 (Thursday) |
 | Chirong Zhang | 5:00-6:00 pm, October 14 (Thursday) |
 | Jian Pei | 9:30-10:30 am, October 16 (Saturday) |
 | Chirong Zhang | 11:00 am - noon, October 17 (Sunday) |
