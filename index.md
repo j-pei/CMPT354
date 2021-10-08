@@ -19,12 +19,12 @@ September 8 - December 7, 2021
 | Name | Date and time | 
 |---|---| 
 | Jian Pei | 9:30-10:30 am, October 9 (Saturday) |
+| Chirong Zhang | 11:00 am - noon, October 10 (Sunday) |
 | Jian Pei | 9:30-10:30 am, October 11 (Monday, Thanksgiving) |
 | Jian Pei | 10:30-11:20 am, October 14 (Thursday) |
+| Chirong Zhang | 5:00-6:00 pm, October 14 (Thursday) |
 | Jian Pei | 9:30-10:30 am, October 16 (Saturday) |
-| Chirong Zhang | Oct 10, Sunday, 11:00am-noon |
-| Chirong Zhang | Oct 14, Thursday, 17:00-18:00 |
-| Chirong Zhang | Oct 17, Sunday, 11:00am-noon |
+| Chirong Zhang | 11:00 am - noon, October 17 (Sunday) |
 
 # About this course
 
