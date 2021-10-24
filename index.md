@@ -18,16 +18,6 @@ September 8 - December 7, 2021
 
 | Name | Date and time | 
 |---|---| 
-| Jian Pei | 9:30-10:30 am, October 9 (Saturday) |
-| Gurashish Singh Suri | 11:00 am - noon, October (Saturday) |
-| Chirong Zhang | 11:00 am - noon, October 10 (Sunday) |
-| Jian Pei | 9:30-10:30 am, October 11 (Monday, Thanksgiving) |
-| Gurashish Singh Suri | 10:00-11:00 am, October 13 (Wednesday) |
-| Jian Pei | 10:30-11:20 am, October 14 (Thursday) |
-| Gurashish Singh Suri | 2:00-3:00 pm, October 14 (Thursday) |
-| Chirong Zhang | 5:00-6:00 pm, October 14 (Thursday) |
-| Jian Pei | 9:30-10:30 am, October 16 (Saturday) |
-| Chirong Zhang | 11:00 am - noon, October 17 (Sunday) |
 
 # About this course
 
@@ -59,6 +49,7 @@ This is an introduction course into the general area of data management, which i
 | Assignment | Due date |
 |---|---|
 | [Assignment 1](https://www2.cs.sfu.ca/CourseCentral/Hypermail/cmpt-354-d1/att-0011/CMPT_354_Assignment_1.pdf) | 11:59 pm, October 12 (Tuesday) |
+| [Assignment 2](https://www2.cs.sfu.ca/CourseCentral/Hypermail/cmpt-354-d1/att-0025/CMPT_354_Assignment_2.pdf) | 11:59 pm, November 17 (Wednesday) |
 
 # Schedule (tentative, subject to changes)
 
