@@ -62,9 +62,9 @@ This is an introduction course into the general area of data management, which i
 | October 14 | [Review for Midterm 1](https://www.cs.sfu.ca/cc/354/jpei/2021/Review1.pdf) and [Accessing SQL From a Programming Language](https://www.cs.sfu.ca/cc/354/jpei/2021/AdvancedSQL.pdf) | Chapter 5.1 |
 | October 18 | Midterm 1 | SSCC 9001 |
 | October 21-28 | [Database Design Using the E-R Model](https://www.cs.sfu.ca/cc/354/jpei/2021/ERdesign.pdf) | Chapter 6 |
-| November 1-11 | [Relational Database Design](https://www.cs.sfu.ca/cc/354/jpei/2021/RelationalDBDesign.pdf) | Chapter 7 |
+| November 1-18 | [Relational Database Design](https://www.cs.sfu.ca/cc/354/jpei/2021/RelationalDBDesign.pdf) | Chapter 7 |
 | November 18 | Review for Midterm 2 | |
-| November 22 | Midterm 2 |SSCC 9001 |
+| November 29 | Midterm 2 |SSCC 9001 |
 
 # Announcements
 
