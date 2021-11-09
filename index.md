@@ -63,8 +63,10 @@ This is an introduction course into the general area of data management, which i
 | October 18 | Midterm 1 | SSCC 9001 |
 | October 21-28 | [Database Design Using the E-R Model](https://www.cs.sfu.ca/cc/354/jpei/2021/ERdesign.pdf) | Chapter 6 |
 | November 1-18 | [Relational Database Design](https://www.cs.sfu.ca/cc/354/jpei/2021/RelationalDBDesign.pdf) | Chapter 7 |
+| November 22-25 | [Complex Data Types](https://www.cs.sfu.ca/cc/354/jpei/2021/ComplexDataTypes.pdf) | Chapter 8 |
 | November 22 | Review for Midterm 2 | |
-| November 29 | Midterm 2 |SSCC 9001 |
+| November 29 | Midterm 2 | SSCC 9001 |
+| November 25 - December 7 | Big Data Analytics | Chapters 9-10 |
 
 # Announcements
 
