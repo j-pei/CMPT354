@@ -18,6 +18,8 @@ September 8 - December 7, 2021
 
 | Name | Date and time | 
 |---|---| 
+| Jian Pei | 10:30 - 11:20 am, Nov. 25 (Thu) |
+| Jian Pei | 9:30 - 10:30 am, Nov. 27 (Sat) |
 
 # About this course
 
