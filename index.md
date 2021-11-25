@@ -51,7 +51,8 @@ This is an introduction course into the general area of data management, which i
 | Assignment | Due date |
 |---|---|
 | [Assignment 1](https://www2.cs.sfu.ca/CourseCentral/Hypermail/cmpt-354-d1/att-0011/CMPT_354_Assignment_1.pdf) | 11:59 pm, October 12 (Tuesday) |
-| [Assignment 2](https://www2.cs.sfu.ca/CourseCentral/Hypermail/cmpt-354-d1/att-0027/CMPT_354_Assignment_2.pdf) | 11:59 pm, November 21 (Sunday) |
+| [Assignment 2](https://www2.cs.sfu.ca/CourseCentral/Hypermail/cmpt-354-d1/att-0027/CMPT_354_Assignment_2.pdf) | 11:59 pm, November 22 (Sunday) |
+| [Assignment 3](https://www2.cs.sfu.ca/CourseCentral/Hypermail/cmpt-354-d1/att-0041/CMPT_354_Assignment_3.pdf) | 11:59 pm, December 10 (Friday) |
 
 # Schedule (tentative, subject to changes)
 
