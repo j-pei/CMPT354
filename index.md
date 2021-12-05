@@ -16,10 +16,11 @@ September 8 - December 7, 2021
 
 ## Additional office hours
 
-| Name | Date and time | 
-|---|---| 
-| Jian Pei | 10:30 - 11:20 am, Nov. 25 (Thu) |
-| Jian Pei | 9:30 - 10:30 am, Nov. 27 (Sat) |
+| Name | Date and time | Location |
+|---|---|---|
+| Jian Pei | 9:30 - 10:30 am, Dec. 6 (Monday) | SWH10041 |
+| Jian Pei | 9:30 - 11:30 am, Dec. 9 (Thursday) | TASC 9201 |
+| Jian Pei | 8:30 - 11:30 am, Dec. 16 (Thursday) | [Office hour Zoom link](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09) |
 
 # About this course
 
@@ -72,6 +73,4 @@ This is an introduction course into the general area of data management, which i
 | November 25 - December 2 | [Big Data Analytics](https://www.cs.sfu.ca/cc/354/jpei/2021/BigDataAnalytics.pdf) | Chapters 9-10 |
 | December 6 | [Review for final exam](https://www.cs.sfu.ca/cc/354/jpei/2021/FinalReview.pdf) |  |
 
-# Announcements
 
-- The midterms will be run in SSCC 9001 instead of our regular classroom on Mondays
