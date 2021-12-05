@@ -6,6 +6,9 @@ September 8 - December 7, 2021
 | Monday | 8:30-9:20 am | SWH 10041 |
 | Thursday | 8:30-10:20 am | BLU 9660 |
 
+## Final exam
+8:30 – 11:30 am, Dec. 17, 2021 (Friday), SWH 10081
+
 # Instructor and TAs
 
 | Role | Name | Email | Office hour |
